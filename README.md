@@ -1,31 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@BowBow16 
-BowBow16
-/
-https-ILS_Comprog.github.io
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-https-ILS_Comprog.github.io/ILS_COMPROG.html
-@BowBow16
-BowBow16 Add files via upload
-Latest commit 347f258 1 minute ago
- History
- 1 contributor
-63 lines (53 sloc)  2.19 KB
 
 <!DOCTYPE html>
 <title>
@@ -89,18 +61,3 @@ Latest commit 347f258 1 minute ago
 
 
 
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-BowBow16/https-ILS_Comprog.github.iohttps-ILS_Comprog.github.io/ILS_COMPROG.html at main · BowBow16/https-ILS_Comprog.github.io
